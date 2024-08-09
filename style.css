@@ -1,0 +1,28 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+h2{
+    font-size: 40px;
+    color: #ff0000b3;
+}
+
+li{
+    color: black;
+    font-size: 25px;
+    
+}
+
+ img{
+    width: auto;
+    height: 300px;
+ }
+
+.description{
+    font-size: 20px;
+}
