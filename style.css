@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body{
     background-color: lightblue;
 }
@@ -15,14 +18,26 @@ h2{
 li{
     color: black;
     font-size: 25px;
-    
+    margin-left: 450px;
 }
 
  img{
     width: auto;
     height: 300px;
+    margin-left: 450px;
  }
 
 .description{
     font-size: 20px;
+    text-align: center;
+}
+
+.ingredientes{
+    text-align: center;
+}
+
+ol li{
+    color: black;
+    font-size: 25px;
+    margin-left: 0px;
 }
